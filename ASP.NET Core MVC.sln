@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core MVC", "ASP.NET Core MVC\ASP.NET Core MVC.csproj", "{F4D45D84-E823-4F0D-A28C-B3D71698A888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D45D84-E823-4F0D-A28C-B3D71698A888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D45D84-E823-4F0D-A28C-B3D71698A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D45D84-E823-4F0D-A28C-B3D71698A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D45D84-E823-4F0D-A28C-B3D71698A888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
